@@ -1,5 +1,8 @@
 Parcial 2 - Programación 3
 
+Estudiante: Edward Mnuel Mejia Carmona
+
+
 Universidad del Quindío
 
 Punto 1 - Reporte local
